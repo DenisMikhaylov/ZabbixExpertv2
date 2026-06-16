@@ -55,7 +55,7 @@ apt install default-mysql-server
 ```
 https://www.zabbix.com/ru/download
 ```
-3. Выбрать параметры: Версию Zabbix 7.2, ОС Debian 12, Вариант установки Server,Frontend,Agent, тип базы данных MySQL, тип веб сервера Apache
+3. Выбрать параметры: Версию Zabbix 7.2, ОС Debian 12, Вариант установки Server,Frontend,Agent, тип базы данных MySQL, тип веб сервера nginx
 
 4. Выполнить действия описаные на сайте
 
@@ -64,7 +64,7 @@ https://www.zabbix.com/ru/download
 1. Настройка Zabbix
 
 ```
-http://ip или имя сервера/zabbix/
+http://ip или имя сервера
 ```
 2. Вход в вебинтерфейс
 
