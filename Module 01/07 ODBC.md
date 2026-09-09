@@ -33,6 +33,7 @@ Password: 111
 Установка Mysql odbc driver
 ```
 apt install odbc-mariadb
+apt install unixodbc -y
 ```
 Проверка настройки ODBC
 ```
